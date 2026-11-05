@@ -1,0 +1,7 @@
+[
+ {"capability":"code","source":"yum2mytum.zip","outcome":"migrate","status":"verified","next_action":null},
+ {"capability":"auth","source":"Supabase Auth + Google","outcome":"replaced with browser-only mock auth per user request","status":"verified","next_action":null},
+ {"capability":"schema/records","source":"Supabase (migration file not in archive)","outcome":"not migrated; user requested localStorage only","status":"accepted","next_action":null},
+ {"capability":"maps","source":"Leaflet + OSM","outcome":"kept","status":"verified","next_action":null},
+ {"capability":"payments","source":"mock UPI/card/COD","outcome":"kept as simulated","status":"accepted","next_action":null}
+]
