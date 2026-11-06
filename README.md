@@ -34,6 +34,8 @@ The project was developed as a learning initiative to explore web development, u
 - npm
 
 Refer to `package.json` for the project's dependencies and development scripts.
+**Demo OTP:** `67909`
+A fixed verification code is used for demo purposes, as live OTP delivery via SMS is not currently configured. This allows reviewers to test the signup flow easily.
 
 ## 💻 Getting Started
 
