@@ -2,7 +2,11 @@
 
 Yum2MyTum is a food ordering web application designed to make food ordering simple, convenient, and user-friendly. It provides an interactive platform where users can explore food options, place orders, and track their deliveries.
 
-The platform supports food ordering within college campuses as well as across Mumbai, making it convenient for students and other customers.
+The platform supports food ordering within college campuses as well as across Mumbai, offering a convenient digital food ordering experience.
+
+## 🌐 Live Demo
+
+🔗 **[Yum2MyTum – Live Website](https://yum2mytum.onrender.com/)**
 
 ## 🚀 Features
 
@@ -23,10 +27,11 @@ The project was developed as a learning initiative to explore web development, u
 
 ## 🛠️ Technologies Used
 
-- Frontend Web Technologies
 - JavaScript
-- CSS
-- Web Development Tools
+- HTML5
+- CSS3
+- Frontend Web Technologies
+- npm
 
 Refer to `package.json` for the project's dependencies and development scripts.
 
@@ -40,44 +45,48 @@ Refer to `package.json` for the project's dependencies and development scripts.
 
 ### Installation
 
-1. Clone the repository:
+**1. Clone the repository**
 
-   ```bash
-   git clone https://github.com/Akshata2808/Yum2MyTum.git
-   ```
+```bash
+git clone https://github.com/Akshata2808/Yum2MyTum.git
+```
 
-2. Navigate to the project directory:
+**2. Navigate to the project directory**
 
-   ```bash
-   cd Yum2MyTum
-   ```
+```bash
+cd Yum2MyTum
+```
 
-3. Install dependencies:
+**3. Install dependencies**
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
-4. Start the development server:
+**4. Start the development server**
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
-5. Open the local URL displayed in your terminal.
+**5. Open the application**
+
+Open the local URL displayed in your terminal.
 
 ## 📌 Project Scope
 
-Yum2MyTum is a frontend-focused web application. Its current implementation provides the user interface and interactive website experience. A production-ready food ordering platform would require backend services, database integration, payment processing, and real-time delivery infrastructure.
+Yum2MyTum is a frontend-focused web application. Its current implementation provides the user interface and interactive website experience.
+
+A production-ready food ordering platform would require backend services, database integration, payment processing, and real-time delivery infrastructure.
 
 ## 🌱 Future Enhancements
 
-- Backend and database integration
-- Secure user authentication
-- Online payment integration
-- Real-time delivery tracking
-- Restaurant and menu management
-- Order history and personalized recommendations
+- Backend and database integration.
+- Secure user authentication.
+- Online payment integration.
+- Real-time delivery tracking.
+- Restaurant and menu management.
+- Order history and personalized recommendations.
 
 ## 👩‍💻 Developer
 
@@ -88,4 +97,3 @@ GitHub: [Akshata2808](https://github.com/Akshata2808)
 ## 📄 License
 
 This project is developed for educational and portfolio purposes.
-
